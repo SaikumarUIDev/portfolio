@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <rect width="400" height="220" fill="#2a1810"/>
+  <circle cx="200" cy="110" r="70" fill="#e8b04b"/>
+  <circle cx="200" cy="110" r="55" fill="#c8842b"/>
+  <text x="200" y="30" font-family="Georgia, serif" font-size="18" fill="#f5e6c8" text-anchor="middle">Fine Dining Co.</text>
+  <text x="200" y="200" font-family="Arial" font-size="11" fill="#d9b98a" text-anchor="middle">Restaurant Website</text>
+</svg>

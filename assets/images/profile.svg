@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e4defc"/>
+      <stop offset="100%" stop-color="#cfc4fb"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="url(#bg)"/>
+  <circle cx="150" cy="120" r="55" fill="#1e2749"/>
+  <path d="M60 280 Q150 180 240 280 Z" fill="#1e2749"/>
+  <text x="150" y="270" font-family="Arial, sans-serif" font-size="16" fill="#6c4fe0" text-anchor="middle" opacity="0.6">SAI KUMAR</text>
+</svg>

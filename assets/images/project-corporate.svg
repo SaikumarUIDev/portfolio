@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <rect width="400" height="220" fill="#1b2a4a"/>
+  <rect x="30" y="80" width="40" height="140" fill="#2c3e63"/>
+  <rect x="90" y="50" width="50" height="170" fill="#324a78"/>
+  <rect x="160" y="100" width="35" height="120" fill="#2c3e63"/>
+  <rect x="215" y="40" width="55" height="180" fill="#3a548a"/>
+  <rect x="290" y="70" width="45" height="150" fill="#2c3e63"/>
+  <rect x="345" y="20" width="40" height="200" fill="#324a78"/>
+  <rect x="0" y="0" width="400" height="30" fill="#0f172e"/>
+  <text x="16" y="20" font-family="Arial" font-size="13" fill="#8fa2d6">Corporate Website</text>
+</svg>
